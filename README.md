@@ -17,8 +17,8 @@ This project is an attempt to create a site with similar functionality as [Booki
 <img src="https://github.com/vsushko/frontend-projects/blob/main/img/keksobooking.gif" width="650" height="450">
 
 ## Nerds project
-
 HTML & CSS project 
+
 <img src="https://github.com/vsushko/frontend-projects/blob/main/img/nerds.gif" width="750" height="450">
 
 ## Technomart
