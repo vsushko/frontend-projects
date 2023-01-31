@@ -27,7 +27,7 @@ This example contains only semantic layout on HTML
 <img src="https://github.com/vsushko/frontend-projects/blob/main/img/technomart.png" width="550" height="750">
 
 # Other
-Also, check my certificates from HTML Academy:
+Also, look at my certificates from HTML Academy:
 
 - [HTML & CSS basic course (08/07 — 09/13 2017](https://assets.htmlacademy.ru/certificates/intensive/43/465123.pdf)
 - [HTML & CSS advanced course (09/18 — 10/25 2017)](https://assets.htmlacademy.ru/certificates/intensive/47/465123.pdf)
