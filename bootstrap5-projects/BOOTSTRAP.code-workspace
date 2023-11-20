@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../workspace/frontend-projects/bootstrap5-projects"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bootstrap-sandbox"
+	}
+}
